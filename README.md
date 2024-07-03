@@ -1,6 +1,6 @@
 <div align=center>
 
-  ![Introduce myself](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gogo1414&theme=transparent)
+  ![Introduce myself](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gogo1414&theme=discord_old_blurple)
   
   ### ⚙️ Skills
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -15,5 +15,5 @@
   
   ![gogo1414's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogo1414&show_icons=true&theme=discord_old_blurple)
   
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogo1414&layout=compact&theme=tokyonight)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogo1414&layout=compact&theme=discord_old_blurple)
 </div>

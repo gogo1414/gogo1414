@@ -1,4 +1,6 @@
 <div align=center>
+
+  ![Introduce myself](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gogo1414&theme=tokyonight)
   
   ### ⚙️ Skills
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -13,5 +15,5 @@
   
   ![gogo1414's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogo1414&show_icons=true&theme=tokyonight)
   
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogo1414&layout=compact&theme=tokyonight)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gogo1414)](https://solved.ac/gogo1414/)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogo1414&layout=compact&theme=tokyonight)
 </div>

@@ -13,7 +13,7 @@
   ### ✏️ Study
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![TravisCI](https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   
-  ![gogo1414's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogo1414&show_icons=true&theme=tokyonight)
+  ![gogo1414's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogo1414&show_icons=true&theme=discord_old_blurple)
   
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogo1414&layout=compact&theme=tokyonight)
 </div>

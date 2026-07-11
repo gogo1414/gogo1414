@@ -18,6 +18,4 @@
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   
   ![gogo1414's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=gogo1414&show_icons=true&theme=discord_old_blurple)
-  
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogo1414&layout=compact&theme=discord_old_blurple)
 </div>
